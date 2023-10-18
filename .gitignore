@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+.pnpm
+yarn-error.log
